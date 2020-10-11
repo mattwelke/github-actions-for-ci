@@ -1,1 +1,2 @@
 name: Approval Workflow
+on: pull_request_review
